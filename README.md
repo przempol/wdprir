@@ -18,7 +18,6 @@ task7() - sumowanie tablicy równolegle - używając AtomicInteger z metodą get
 
 Taski 3-7 wypluwały output w postaci plików .csv, z których można stworzyć wykresy w pythonie (patrz plik chart.py)
 
-## Lab 1
+## Lab 2
 Polegało na parsowaniu strony internetowej w celu znalezenia plików .png i przepuszczeniu ich przez filtr 
-Gaussa w celu wkurzenia studentów -  w wersji sekwencyjnej i równoleglej (AtomicInteger) -
-
+Gaussa w celu wkurzenia studentów -  w wersji sekwencyjnej i równoleglej (AtomicInteger)
